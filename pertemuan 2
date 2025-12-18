@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-string nama = "Aldi Firansah Saputra";
-string NPM = "2517051012";
+string nama = "Nia Kurniawati";
+string NPM = "2517051016";
 
 cout << "Selamat Datang Di Praktikum Pengenalan Pemrograman" << endl;
 cout << "Nama saya adalah " << nama << endl;
