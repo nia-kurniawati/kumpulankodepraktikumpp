@@ -7,12 +7,10 @@ int main()
     {
         if (i == 5)
         {
-            break; // hentikan loop jika i sama dengan 5
+            break; 
             cout << i << " ";
             cout << "\nLooping Selesai";
-            // output
-            // 12 3 4
-            // Looping Selesai
+            
                 return 0;
         }
     }
